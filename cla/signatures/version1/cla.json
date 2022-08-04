@@ -1,3 +1,12 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "buke",
+      "id": 1013738,
+      "comment_id": 1205133386,
+      "created_at": "2022-08-04T11:32:35Z",
+      "repoId": 521239345,
+      "pullRequestNo": 1
+    }
+  ]
 }
